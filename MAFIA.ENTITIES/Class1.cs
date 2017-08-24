@@ -1,8 +1,10 @@
 ﻿using System;
 
-namespace MAFIA.ENTITIES
+namespace Mafia.Entities
 {
     public class Class1
     {
+
+
     }
 }
